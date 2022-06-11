@@ -1,0 +1,6 @@
+x=40;
+y=60;
+z=x*y;
+
+Area=$(($x*$y));
+printf "Area=$Area";

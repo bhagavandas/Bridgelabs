@@ -1,0 +1,7 @@
+read -p "Enter a fav players in RCB is " player
+if [ $player=="Virat" ]
+then
+   echo "He is Indian Player"
+else
+   echo "Please check your input, Its invalid:("
+fi

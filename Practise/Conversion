@@ -1,0 +1,7 @@
+read -p "Enter a number of feet =" num
+num in
+if
+  sum=$((x= num*12))
+then
+  echo "Number of inches = $sum"
+fi

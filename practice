@@ -1,0 +1,19 @@
+read -p "Enter a number here " num
+isFulltime=1
+isParttime=2
+isUnemployee=3
+salary=0
+perhourcost=100
+loghours=8
+if [ $num==$isFulltime ]
+then
+    salary=$((perhourcost*loghours))
+    echo "fulltime employee salary : $salary"
+elif [ $num==$isParttime ]
+then
+    salary=$((perhourcost*loghours/2))
+    
+    echo "parttime employee salary : $salary"
+else
+    echo "please check your input"
+fi
