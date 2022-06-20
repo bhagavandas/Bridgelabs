@@ -1,0 +1,7 @@
+echo "Step 1: Created a folder stage1-review
+Step 2: Created a files named x.java, y.py, z.js day4.sh, algorithm.txt
+Step 3: Created folder with file names and subfolder with its extensions. After that cut the original file and pasted it in subfolders.
+Step 3: Duplicate array is done in a file day4.sh
+Step 4: Declared and initialized an array using for loop
+Step 5: Executed the code
+Step 6: Printed all the elements and its frequency"
